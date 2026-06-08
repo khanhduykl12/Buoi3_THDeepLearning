@@ -1,7 +1,7 @@
 # Buoi3_THDeepLearning
 
 B1: Khai Báo Thư Viện </br>
-<img width="472" height="257" alt="image" src="https://github.com/user-attachments/assets/61e6ab60-1db0-4996-9c2b-f024fa37acb0" /> </br>
+<img width="577" height="327" alt="image" src="https://github.com/user-attachments/assets/cbc2f1f1-ce5e-4505-91c5-82fd8bb9c236" /> </br>
 
 B2: Định hình lại dữ liệu từ 2D sang 3D </br>
 <img width="465" height="175" alt="image" src="https://github.com/user-attachments/assets/bac09cbd-a0c5-4ed2-b6ca-ab2161182b15" /> </br>

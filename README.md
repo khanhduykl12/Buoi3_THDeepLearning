@@ -12,7 +12,8 @@ B3: Xây dựng cấu trúc mạng CNN </br>
  </br>
 
 B4: Biên dịch và Huấn luyện mô hình </br>
-<img width="726" height="645" alt="image" src="https://github.com/user-attachments/assets/dda1a1f2-5051-4530-b30f-52a7e7d0372f" /> </br>
+<img width="613" height="487" alt="image" src="https://github.com/user-attachments/assets/d3e00651-4490-40af-8505-116e4e08148a" />
+ </br>
 
 B5: Loss và Accuracy </br>
 <img width="913" height="610" alt="image" src="https://github.com/user-attachments/assets/0e5dc6e4-7c45-43cf-8687-bad538cab450" />

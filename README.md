@@ -16,7 +16,8 @@ B4: Biên dịch và Huấn luyện mô hình </br>
  </br>
 
 B5: Loss và Accuracy </br>
-<img width="913" height="610" alt="image" src="https://github.com/user-attachments/assets/0e5dc6e4-7c45-43cf-8687-bad538cab450" />
+<img width="1217" height="731" alt="image" src="https://github.com/user-attachments/assets/175ea77c-6b2f-4c97-a1b5-975c22f004af" />
+
 
 
 

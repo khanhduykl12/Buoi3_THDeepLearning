@@ -8,7 +8,8 @@ B2: Định hình lại dữ liệu từ 2D sang 3D </br>
  </br>
 
 B3: Xây dựng cấu trúc mạng CNN </br>
-<img width="690" height="320" alt="image" src="https://github.com/user-attachments/assets/44c48753-d530-4296-8755-2f1a6d82d794" /> </br>
+<img width="672" height="266" alt="image" src="https://github.com/user-attachments/assets/4859aec2-32aa-4ae6-97d8-50ffe5e2111a" />
+ </br>
 
 B4: Biên dịch và Huấn luyện mô hình </br>
 <img width="726" height="645" alt="image" src="https://github.com/user-attachments/assets/dda1a1f2-5051-4530-b30f-52a7e7d0372f" /> </br>

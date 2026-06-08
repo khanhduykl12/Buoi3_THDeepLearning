@@ -4,7 +4,8 @@ B1: Khai Báo Thư Viện </br>
 <img width="577" height="327" alt="image" src="https://github.com/user-attachments/assets/cbc2f1f1-ce5e-4505-91c5-82fd8bb9c236" /> </br>
 
 B2: Định hình lại dữ liệu từ 2D sang 3D </br>
-<img width="465" height="175" alt="image" src="https://github.com/user-attachments/assets/bac09cbd-a0c5-4ed2-b6ca-ab2161182b15" /> </br>
+<img width="578" height="217" alt="image" src="https://github.com/user-attachments/assets/793691ea-cef0-4ea5-b56d-4f66e57ac8c0" />
+ </br>
 
 B3: Xây dựng cấu trúc mạng CNN </br>
 <img width="690" height="320" alt="image" src="https://github.com/user-attachments/assets/44c48753-d530-4296-8755-2f1a6d82d794" /> </br>
